@@ -1,0 +1,13 @@
+PART 3 FINAL CHECKLIST
+
+[ ] Confirm phone/email and all business details.
+[ ] Replace YOUR-DOMAIN.example in all canonical tags, robots.txt and sitemap.xml after deployment.
+[ ] Test navigation on desktop and mobile.
+[ ] Test product search, FAQ accordion and gallery lightbox.
+[ ] Test enquiry form with missing/invalid details and a valid future date.
+[ ] Test contact form; check that the email draft opens and recipient is correct.
+[ ] Remember: the enquiry form is a front-end demo; it does not store/send data.
+[ ] Upload all project files to GitHub and commit with descriptive messages.
+[ ] Deploy using GitHub Pages or Netlify.
+[ ] Submit GitHub repository URL and deployed website URL.
+[ ] Compare with lecturer Part 2 feedback and document each correction in README changelog.
